@@ -46,7 +46,6 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![WhatsApp Image 2024-12-04 at 22 35 45_3a4f929a](https://github.com/user-attachments/assets/041a9354-1eec-4c91-ab16-f9cb7fa4980e)
 
 ### Name: KOMALAVARSHINI.S
 ### Register Number: 212224230133
