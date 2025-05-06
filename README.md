@@ -46,6 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/user-attachments/assets/e9376639-b1a1-428e-9f0f-76e0cbad703e)
+![image](https://github.com/user-attachments/assets/07173435-7af7-4b89-b612-587cf82edcc0)
 
 ### Name: KOMALAVARSHINI.S
 ### Register Number: 212224230133
